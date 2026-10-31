@@ -45,7 +45,7 @@ The dataset includes transaction dates, descriptions, receipt references, incomi
 
 ### 1. Annual Customer Sales Performance
 
-Recorded customer sales increased from KES 81,577 in 2024 to KES 336,292 in 2025, representing growth of approximately **312.5%**.
+Recorded customer sales increased from KES 81,577 in 2024 to KES 336,292 in 2025, representing growth of approximately **312.2%**.
 
 Customer-sale transaction volume also increased, reaching 8,394 transactions in 2025.
 
@@ -87,9 +87,9 @@ The reporting period also begins and ends partway through a calendar year, so co
 
 ## Project Deliverables
 
-- Final project report in PDF format.
-- SQL-based transaction analysis and validation.
-- Power BI business overview and detailed analysis dashboard.
+- [Business Analysis Report](Report/)
+- [SQL Analysis Scripts](SQL/)
+- [Power BI Dashboard](Dashboard/)
 - Data preparation and data-quality investigation.
 
 ## Conclusion
