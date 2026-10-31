@@ -87,8 +87,8 @@ The reporting period also begins and ends partway through a calendar year, so co
 
 ## Project Deliverables
 
-- [Business Analysis Report](Report/)
-- [SQL Analysis Scripts](SQL/)
+- [Business Analysis Report](report/)
+- [SQL Analysis Scripts](sql/)
 - [Power BI Dashboard](Dashboard/)
 - Data preparation and data-quality investigation.
 
